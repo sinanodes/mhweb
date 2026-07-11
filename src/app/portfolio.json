@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Neon Symphony",
+    "category": "AI Music Video",
+    "videoUrl": "/videos/project-1.mp4",
+    "posterUrl": "/videos/poster-1.jpg",
+    "description": "A surreal journey through an AI-generated metropolis driven by synthwave beats."
+  },
+  {
+    "id": "2",
+    "title": "Aura Cosmetics",
+    "category": "Advertisement",
+    "videoUrl": "/videos/project-2.mp4",
+    "posterUrl": "/videos/poster-2.jpg",
+    "description": "A striking beauty campaign highlighting natural textures and dynamic lighting."
+  },
+  {
+    "id": "3",
+    "title": "Echoes of Time",
+    "category": "Short Film",
+    "videoUrl": "/videos/project-3.mp4",
+    "posterUrl": "/videos/poster-3.jpg",
+    "description": "An emotional narrative piece exploring memory through cinematic landscapes."
+  }
+]
