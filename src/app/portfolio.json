@@ -1,10 +1,10 @@
 [
   {
     "id": "1",
-    "title": "Neon Symphony",
+    "title": "Electrical Shadow",
     "category": "AI Music Video",
-    "videoUrl": "/videos/project-1.mp4",
-    "posterUrl": "/videos/poster-1.jpg",
+    "videoUrl": "/videos/electrical.mp4",
+    "posterUrl": "/videos/electrical-cover.jpg",
     "description": "A surreal journey through an AI-generated metropolis driven by synthwave beats."
   },
   {
